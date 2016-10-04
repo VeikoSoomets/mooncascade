@@ -1,0 +1,1 @@
+{"version":3,"sources":["athlete.ts"],"names":[],"mappings":";;;;;;;YAEA;gBAAA;gBAKA,CAAC;gBAAD,cAAC;YAAD,CALA,AAKC,IAAA;YALD,6BAKC,CAAA","file":"athlete.js","sourcesContent":["import { TimingPoint } from './timingpoint';\n\nexport class Athlete {\n  id: number;\n  starting_number: number;\n  name: string;\n  timing_points: TimingPoint[];\n}"],"sourceRoot":"/source/"}

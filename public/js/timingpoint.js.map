@@ -1,0 +1,1 @@
+{"version":3,"sources":["timingpoint.ts"],"names":[],"mappings":";;;;;;;YAAA;gBAAA;gBAKA,CAAC;gBAAD,kBAAC;YAAD,CALA,AAKC,IAAA;YALD,qCAKC,CAAA","file":"timingpoint.js","sourcesContent":["export class TimingPoint {\n  id: number;\n  point_id: number;\n  description: string;\n  pivot: any;\n}"],"sourceRoot":"/source/"}
