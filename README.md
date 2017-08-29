@@ -1,5 +1,4 @@
-# Mooncascade Test
-This project is made to solve the test assignment created by Mooncascade.
+# Laravel Test
 
 ### General info
 - For this task I used Framework called **Laravel Framework**. For more information on framework [visit this link](https://laravel.com). You can also find installation instructions from there.
